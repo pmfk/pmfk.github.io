@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+
+echo 'pmio.xyz' >CNAME
+git add -A
+git commit -m 'a'
+git push
